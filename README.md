@@ -22,8 +22,9 @@
 - 🎓 I'm a student at **Faculty of Computers and Information, Helwan University**
 - 🤖 Specializing in **Machine Learning Engineering**
 - 💡 Interested in **AI, Data Science, Backend Development, and Cloud Technologies**
+- 📘 Solid understanding of **Data Structures**, **Algorithms**, **OOP**, and **Machine Learning**
 - 📫 Reach me at: **mahammadsaad74@gmail.com**
-
+- 
 ---
 
 ### 🛠️ Languages & Tools
@@ -36,6 +37,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-2E4C81?style=flat&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
