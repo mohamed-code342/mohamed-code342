@@ -24,7 +24,6 @@
 - 💡 Interested in **AI, Data Science, Backend Development, and Cloud Technologies**
 - 📘 Solid understanding of **Data Structures**, **Algorithms**, **OOP**, and **Machine Learning**
 - 📫 Reach me at: **mahammadsaad74@gmail.com**
-- 
 ---
 
 ### 🛠️ Languages & Tools
