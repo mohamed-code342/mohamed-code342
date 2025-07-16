@@ -21,20 +21,21 @@
 ### 👨‍💻 About Me
 - 🎓 I'm a student at **Faculty of Computers and Information, Helwan University**
 - 🤖 Specializing in **Machine Learning Engineering**
-- 🌱 Currently learning: `Python`, `Flask`, `SQL`, `Linux`, `Azure`, `MLFlow`
-- 💡 Interested in AI, Backend Development, and Cloud Technologies
+- 💡 Interested in **AI, Data Science, Backend Development, and Cloud Technologies**
 - 📫 Reach me at: **mahammadsaad74@gmail.com**
 
 ---
 
 ### 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
@@ -49,22 +50,7 @@
 
 ### 📂 Notable Projects
 
-- 🔗 [Connect-6 AI Game](https://github.com/mohamed-code342/connect-6) *(if you have it)*
+- 🔗 [Connect-6 AI Game](https://github.com/mohamed-code342/connect-6)
 - 🔗 [Gold Price Prediction](https://github.com/mohamed-code342/gold-price-prediction)
 - 🔗 [Courses Management System](https://github.com/mohamed-code342/courses-management)
-
----
-
-### ☁️ Currently Learning
-
-- Flask Backend Development  
-- Azure Machine Learning  
-- MLFlow for ML lifecycle  
-- Docker & Kubernetes  
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-
----
 
