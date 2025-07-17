@@ -52,10 +52,3 @@
 </p>
 
 ---
-
-### 📂 Notable Projects
-
-- 🔗 [Connect-6 AI Game](https://github.com/mohamed-code342/connect-6)
-- 🔗 [Gold Price Prediction](https://github.com/mohamed-code342/gold-price-prediction)
-- 🔗 [Courses Management System](https://github.com/mohamed-code342/courses-management)
-
