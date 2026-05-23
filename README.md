@@ -1,119 +1,169 @@
-# Hi 👋, I'm Mohamed Saad
+<div align="center">
 
-## 🚀 Aspiring Data Engineer | AI & Data Science Student
+# Mohamed Saad 👨‍💻
 
-I am a Data Engineer passionate about building scalable data solutions, designing efficient ETL pipelines, and transforming raw data into valuable business insights.
+### Aspiring Data Engineer | AI & Data Science Student | Big Data Enthusiast
 
-Currently pursuing a Bachelor's degree in Artificial Intelligence & Data Science while gaining hands-on experience in Data Engineering, Data Warehousing, Big Data technologies, and Analytics.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Building+Scalable+Data+Pipelines;Transforming+Raw+Data+Into+Insights;Future+Data+Engineer;Big+Data+%7C+ETL+%7C+Data+Warehousing" />
 
----
-
-## 🎯 Career Goals
-
-My goal is to become a professional Data Engineer capable of:
-
-- Building scalable data pipelines
-- Designing modern data warehouses and data lakes
-- Working with Big Data ecosystems
-- Automating ETL/ELT workflows
-- Developing cloud-based data solutions
-- Supporting data-driven decision making
-- Contributing to large-scale data platforms in global technology companies
+</div>
 
 ---
 
-## 💻 Technical Skills
+## 🚀 About Me
 
-### Programming
-- Python
-- SQL
-- Java
+🎓 AI & Data Science Student at Helwan National University
 
-### Data Engineering
-- ETL Pipelines
-- Data Warehousing
-- Data Modeling
-- Star Schema Design
-- Medallion Architecture
+📊 Passionate about Data Engineering, Data Warehousing, ETL Pipelines and Big Data Systems
 
-### Big Data Technologies
-- Hadoop
-- HDFS
-- MapReduce
+⚡ Building scalable solutions using Hadoop, SQL, Python and Analytics Tools
 
-### Data Analysis & Visualization
-- Pandas
-- NumPy
-- Plotly Dash
-- Data Visualization
-
-### Machine Learning
-- Scikit-Learn
-- TensorFlow
-- Keras
-
-### Database Systems
-- MySQL
-- SQL Server
-
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-
----
-
-## 📚 Currently Learning
+🌱 Currently Learning:
 
 - Apache Spark
 - Apache Kafka
-- Airflow
-- Data Lake Architecture
+- Apache Airflow
 - Cloud Data Engineering
 - Azure Data Services
-- Advanced SQL Optimization
+
+🎯 Goal:
+
+Become a world-class Data Engineer and contribute to building large-scale data platforms used by millions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Data Engineering
+
+![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![MapReduce](https://img.shields.io/badge/MapReduce-FF6F00?style=for-the-badge)
+![HDFS](https://img.shields.io/badge/HDFS-0A66C2?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-00C853?style=for-the-badge)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-7B1FA2?style=for-the-badge)
+
+### Analytics & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Plotly](https://img.shields.io/badge/Plotly-Dash-3F4F75?style=for-the-badge&logo=plotly)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🏗️ Data Warehouse & Analytics Project
-Built a modern SQL Server Data Warehouse using Medallion Architecture and ETL pipelines to integrate ERP and CRM datasets, design dimensional models, and deliver business analytics dashboards.
 
-### ⚙️ Department Partitioning using Hadoop MapReduce
-Implemented custom partitioning and combiners in Hadoop MapReduce to optimize distributed processing and generate department-level salary analytics efficiently.
+Modern SQL Server Data Warehouse using:
 
-### 🎵 Spotify Music Trends Dashboard
-Developed an interactive analytics dashboard using Plotly Dash to explore music trends, popularity metrics, and audio feature distributions.
+- Medallion Architecture
+- ETL Pipelines
+- ERP & CRM Integration
+- Star Schema Design
+- Business Analytics
+
+---
+
+### ⚙️ Department Partitioning MapReduce
+
+Distributed processing system using Hadoop MapReduce:
+
+- Custom Partitioner
+- Combiner Optimization
+- Salary Analytics
+- Large-scale Employee Data Processing
+
+---
 
 ### 💰 Employee Payroll Analytics
-Built a Hadoop MapReduce solution performing reduce-side joins on large payroll datasets for distributed salary analytics and reporting.
+
+Big Data Payroll Analytics System:
+
+- Hadoop MapReduce
+- Reduce-Side Join
+- Salary Analysis
+- Distributed Computation
 
 ---
 
-## 📈 GitHub Focus Areas
+### 🎵 Spotify Music Trends Dashboard
 
-- Data Engineering
-- Big Data Processing
-- ETL Development
-- Data Warehousing
-- SQL Optimization
-- Analytics Engineering
-- Cloud Data Platforms
+Interactive analytics dashboard built with Plotly Dash:
 
----
-
-## 🤝 Let's Connect
-
-📧 Email: mahammadsaad74@gmail.com
-
-💼 LinkedIn:
-www.linkedin.com/in/mohamed-saadd
-
-🐙 GitHub:
-https://github.com/YOUR_USERNAME
+- KPI Monitoring
+- Genre Analysis
+- Popularity Trends
+- Dynamic Visualizations
 
 ---
 
-### "Turning raw data into reliable, scalable, and impactful solutions."
+## 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohamed-saadd">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mahammadsaad74@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Turning Raw Data Into Scalable Solutions
+
+</div>
