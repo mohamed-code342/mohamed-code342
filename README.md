@@ -114,12 +114,13 @@ Interactive analytics dashboard built with Plotly Dash:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-code342&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-code342&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-code342&layout=compact&theme=tokyonight&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed-code342&theme=github_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamed-code342&theme=github_dark)
 ---
 
 ## 🏆 GitHub Trophies
