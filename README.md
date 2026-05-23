@@ -116,13 +116,9 @@ Interactive analytics dashboard built with Plotly Dash:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-code342&show_icons=true&theme=radical&hide_border=true" />
-</p>
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-code342&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-code342&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-code342&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
