@@ -118,9 +118,9 @@ Interactive analytics dashboard built with Plotly Dash:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-code342&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-code342&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -130,7 +130,7 @@ Interactive analytics dashboard built with Plotly Dash:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohamed-code342&theme=tokyonight&row=1&column=7" />
 
 </p>
 
@@ -140,7 +140,7 @@ Interactive analytics dashboard built with Plotly Dash:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-code342&theme=tokyo-night"/>
 
 </p>
 
