@@ -114,14 +114,22 @@ Interactive analytics dashboard built with Plotly Dash:
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Analytics
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamed-code342&show_icons=true&theme=github_dark&hide_border=true"/>
+<table>
+<tr>
+<td>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-code342&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-code342&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-code342&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🏆 GitHub Trophies
