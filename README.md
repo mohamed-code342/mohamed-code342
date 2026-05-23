@@ -1,50 +1,119 @@
-<h1 align="center">Hi there 👋, I'm Mohamed Saad</h1>
-<h3 align="center">A passionate Machine Learning Engineering student from Egypt 🇪🇬</h3>
+# Hi 👋, I'm Mohamed Saad
 
-<p align="center">
-  
-  <a href="http://www.linkedin.com/in/mahammad-saad-725825290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mahammadsaad74@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+## 🚀 Aspiring Data Engineer | AI & Data Science Student
 
-</p>
+I am a Data Engineer passionate about building scalable data solutions, designing efficient ETL pipelines, and transforming raw data into valuable business insights.
+
+Currently pursuing a Bachelor's degree in Artificial Intelligence & Data Science while gaining hands-on experience in Data Engineering, Data Warehousing, Big Data technologies, and Analytics.
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 I'm a student at **Faculty of Computers and Information, Helwan University**
-- 🤖 Specializing in **Machine Learning Engineering**
-- 💡 Interested in **AI, Data Science, Backend Development, and Cloud Technologies**
-- 📘 Solid understanding of **Data Structures**, **Algorithms**, **OOP**, and **Machine Learning**
-- 📫 Reach me at: **mahammadsaad74@gmail.com**
----
+## 🎯 Career Goals
 
-### 🛠️ Languages & Tools
+My goal is to become a professional Data Engineer capable of:
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2E4C81?style=flat&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- Building scalable data pipelines
+- Designing modern data warehouses and data lakes
+- Working with Big Data ecosystems
+- Automating ETL/ELT workflows
+- Developing cloud-based data solutions
+- Supporting data-driven decision making
+- Contributing to large-scale data platforms in global technology companies
 
 ---
 
-### 📈 GitHub Stats
+## 💻 Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-code342&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-code342&layout=compact&theme=github_dark" height="160" />
-</p>
+### Programming
+- Python
+- SQL
+- Java
+
+### Data Engineering
+- ETL Pipelines
+- Data Warehousing
+- Data Modeling
+- Star Schema Design
+- Medallion Architecture
+
+### Big Data Technologies
+- Hadoop
+- HDFS
+- MapReduce
+
+### Data Analysis & Visualization
+- Pandas
+- NumPy
+- Plotly Dash
+- Data Visualization
+
+### Machine Learning
+- Scikit-Learn
+- TensorFlow
+- Keras
+
+### Database Systems
+- MySQL
+- SQL Server
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
+
+## 📚 Currently Learning
+
+- Apache Spark
+- Apache Kafka
+- Airflow
+- Data Lake Architecture
+- Cloud Data Engineering
+- Azure Data Services
+- Advanced SQL Optimization
+
+---
+
+## 🔥 Featured Projects
+
+### 🏗️ Data Warehouse & Analytics Project
+Built a modern SQL Server Data Warehouse using Medallion Architecture and ETL pipelines to integrate ERP and CRM datasets, design dimensional models, and deliver business analytics dashboards.
+
+### ⚙️ Department Partitioning using Hadoop MapReduce
+Implemented custom partitioning and combiners in Hadoop MapReduce to optimize distributed processing and generate department-level salary analytics efficiently.
+
+### 🎵 Spotify Music Trends Dashboard
+Developed an interactive analytics dashboard using Plotly Dash to explore music trends, popularity metrics, and audio feature distributions.
+
+### 💰 Employee Payroll Analytics
+Built a Hadoop MapReduce solution performing reduce-side joins on large payroll datasets for distributed salary analytics and reporting.
+
+---
+
+## 📈 GitHub Focus Areas
+
+- Data Engineering
+- Big Data Processing
+- ETL Development
+- Data Warehousing
+- SQL Optimization
+- Analytics Engineering
+- Cloud Data Platforms
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: mahammadsaad74@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/mohamed-saadd
+
+🐙 GitHub:
+https://github.com/YOUR_USERNAME
+
+---
+
+### "Turning raw data into reliable, scalable, and impactful solutions."
